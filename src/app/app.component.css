@@ -1,0 +1,17 @@
+/**
+ * Author: Rakshit Shah
+ * Email: rakshitshah1994@gmail.com
+ * Link: https://medium.com/beingcoders/simple-steps-to-add-country-flags-to-your-angular-react-or-vue-applications-b415da1536ab?sk=3fd00879906dc74c0777dc21b5ba822b
+ */
+
+.status {
+  background-color: #11d411;
+  text-align: center;
+  padding: 10px;
+  color: #fff;
+  transition: background-color 1s ease;
+}
+
+.status.offline {
+  background-color: rgb(231, 14, 14);
+}
